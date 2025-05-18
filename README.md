@@ -45,6 +45,8 @@ git clone https://github.com/hugexploit/demo.git
 
 ## 3. Подключение Npgsql
 
+Можно через NuGet разберётесь сами
+
 Через **Package Manager Console** выполните:
 
 ```powershell
